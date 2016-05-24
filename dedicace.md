@@ -8,6 +8,4 @@ cover: about
 
 هاد سيت مصوب ب[Jekyll](https://jekyllrb.com/) أو محطوط ف[Github Pages](https://pages.github.com/) أولكود ديال سيت كامل Open Source ف [Github](https://github.com/kronik3r/codewatay/tree/gh-pages)، إلى بانت ليك شي حاجة ماشي هي هاديك خود راحتك بدلها، سيفط ليا شي [Pull Request](https://github.com/kronik3r/codewatay/compare/gh-pages?expand=1) أو مشكور مسبقا.
 
-لموسيقى لي مستعمل فلبودكسات ديال [PV Nova](https://www.facebook.com/pvnova/)، تقدرو تلقاو لموسيقى ديالو [هنايا](https://www.facebook.com/pvnova/).
-
-أوتصاور كنخودهم من [Unsplash](https://unsplash.com/). 
+تصاور كنخودهم من [Unsplash](https://unsplash.com/). 

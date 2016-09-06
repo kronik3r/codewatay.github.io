@@ -287,46 +287,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 468,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/sass/_layout.scss",
-			"settings":
-			{
-				"buffer_size": 7978,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 499,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/sass/_utilities.scss",
-			"settings":
-			{
-				"buffer_size": 309,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about.md",
-			"settings":
-			{
-				"buffer_size": 1154,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -335,20 +295,24 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 293.0,
-		"last_filter": "prevew",
+		"height": 368.0,
+		"last_filter": "close",
 		"selected_items":
 		[
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"loce",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
 			[
 				"prevew",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"lcose",
-				"File: Close All"
-			],
-			[
-				"close",
 				"File: Close All"
 			],
 			[
@@ -617,26 +581,39 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/motaqui/websites/codewatay"
+		"/Users/motaqui/websites/codewatay",
+		"/Users/motaqui/websites/codewatay/_episodes"
 	],
 	"file_history":
 	[
-		"/Users/motaqui/websites/codewatay/about.md",
-		"/Users/motaqui/websites/codewatay/_config.yml",
-		"/Users/motaqui/websites/codewatay/assets/sass/_layout.scss",
-		"/Users/motaqui/websites/codewatay/_includes/teaser.html",
-		"/Users/motaqui/websites/codewatay/_episodes/0.md",
+		"/Users/motaqui/websites/codewatay/index.md",
+		"/Users/motaqui/websites/codewatay/_episodes/2.md",
+		"/Users/motaqui/websites/codewatay/dedicace.md",
 		"/Users/motaqui/websites/codewatay/_episodes/1.md",
+		"/Users/motaqui/websites/codewatay/_episodes/0.md",
+		"/Users/motaqui/websites/codewatay/2.md",
+		"/Users/motaqui/websites/codewatay/assets/sass/_layout.scss",
+		"/Users/motaqui/websites/codewatay/.gitignore",
+		"/Users/motaqui/websites/codewatay/assets/sass/_base.scss",
+		"/Users/motaqui/websites/codewatay/assets/sass/_settings.scss",
+		"/Users/motaqui/websites/codewatay/_includes/footer.html",
+		"/Users/motaqui/websites/codewatay/index.html",
+		"/Users/motaqui/websites/codewatay/copyright.md",
+		"/Users/motaqui/websites/codewatay/about.md",
+		"/Users/motaqui/websites/codewatay/copyright.html",
+		"/Users/motaqui/websites/codewatay/how-to-use.md",
+		"/Users/motaqui/websites/codewatay/_config.yml",
+		"/Users/motaqui/websites/codewatay/_includes/header.html",
+		"/Users/motaqui/websites/codewatay/README.md",
+		"/Users/motaqui/websites/codewatay/assets/sass/_utilities.scss",
+		"/Users/motaqui/websites/codewatay/_includes/teaser.html",
 		"/Users/motaqui/websites/codewatay/_includes/other-episodes.html",
 		"/Users/motaqui/websites/codewatay/_includes/main-section.html",
 		"/Users/motaqui/websites/codewatay/codewatay-jk.sublime-project",
 		"/Users/motaqui/websites/codewatay/_includes/author.html",
-		"/Users/motaqui/websites/codewatay/assets/sass/_utilities.scss",
 		"/Users/motaqui/websites/codewatay/_site/assets/main.css",
-		"/Users/motaqui/websites/codewatay/assets/sass/_settings.scss",
 		"/Users/motaqui/websites/codewatay/assets/sass/_normalize.scss",
 		"/Users/motaqui/websites/codewatay/assets/sass/_fonts.scss",
-		"/Users/motaqui/websites/codewatay/assets/sass/_base.scss",
 		"/Users/motaqui/websites/codewatay/assets/main.scss",
 		"/Users/motaqui/websites/codewatay/Gemfile",
 		"/Users/motaqui/websites/codewatay/gulp.js/index.js",
@@ -645,9 +622,7 @@
 		"/Users/motaqui/websites/codewatay/gulp.js/config.json",
 		"/Users/motaqui/websites/codewatay/gulp.js/revisioning.js",
 		"/Users/motaqui/websites/codewatay/gulp.js/styles.js",
-		"/Users/motaqui/websites/codewatay/.gitignore",
 		"/Users/motaqui/websites/codewatay/package.json",
-		"/Users/motaqui/websites/codewatay/_includes/header.html",
 		"/Users/motaqui/websites/codewatay/_includes/analytics.html",
 		"/Users/motaqui/websites/codewatay/_layouts/default.html",
 		"/Users/motaqui/websites/codewatay/feed.xml",
@@ -655,7 +630,6 @@
 		"/Users/motaqui/websites/codewatay/_includes/metadata.html",
 		"/Users/motaqui/websites/codewatay/_layouts/episode.html",
 		"/Users/motaqui/websites/codewatay/_layouts/page.html",
-		"/Users/motaqui/websites/codewatay/index.html",
 		"/Users/motaqui/websites/codewatay/Gemfile.lock",
 		"/Users/motaqui/websites/codewatay/assets/favicon/code.txt",
 		"/Users/motaqui/websites/codewatay/CNAME",
@@ -739,16 +713,7 @@
 		"/Users/motaqui/websites/electrik-frog-jk/_sass/core/_syntax-highlighter.scss",
 		"/Users/motaqui/websites/electrik-frog-jk/_sass/core/_base.scss",
 		"/Users/motaqui/websites/electrik-frog-jk/_layouts/post.html",
-		"/Users/motaqui/websites/electrik-frog-jk/_layouts/default.html",
-		"/Users/motaqui/websites/electrik-frog-jk/_sass/_rwd.scss",
-		"/Users/motaqui/websites/electrik-frog-jk/_sass/layout/_header.scss",
-		"/Users/motaqui/websites/electrik-frog-jk/_sass/pages/_post.scss",
-		"/Users/motaqui/websites/electrik-frog-jk/css/main.scss",
-		"/Users/motaqui/websites/electrik-frog-jk/_includes/header.html",
-		"/Users/motaqui/websites/electrik-frog-jk/_posts/2015-02-02-blog-name-explained.md",
-		"/Users/motaqui/websites/electrik-frog-jk/_includes/footer.html",
-		"/Users/motaqui/websites/electrik-frog-jk/_sass/layout/_footer.scss",
-		"/Users/motaqui/websites/electrik-frog-jk/_posts/2015-04-27-how-i-built-this-thing-part-2.md"
+		"/Users/motaqui/websites/electrik-frog-jk/_layouts/default.html"
 	],
 	"find":
 	{
@@ -768,6 +733,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"download-link",
+			"episode",
+			"-",
+			"[",
+			"section",
+			"#",
+			".section",
 			"section",
 			".main-section",
 			".header",
@@ -888,13 +860,6 @@
 			"{",
 			"<br>",
 			".post-info",
-			"post-info",
-			"post__",
-			"post",
-			"class=\"post\"",
-			"post",
-			"class=\"post\"",
-			".post",
 			"post-info"
 		],
 		"highlight": true,
@@ -924,156 +889,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 468,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								184,
-								184
-							]
-						],
-						"settings":
-						{
-							"parser": "markdown",
-							"spell_check": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/sass/_layout.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7978,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2480,
-								2480
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2278.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 499,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22,
-								40
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
-							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/sass/_utilities.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								129,
-								129
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "about.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								244,
-								244
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 904.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1138,20 +953,28 @@
 		"selected_items":
 		[
 			[
-				"utilie",
-				"assets/sass/_utilities.scss"
+				"header",
+				"_includes/header.html"
 			],
 			[
-				"footer",
-				"_includes/footer.html"
+				"config",
+				"_config.yml"
 			],
 			[
 				"layout",
 				"assets/sass/_layout.scss"
 			],
 			[
-				"config",
-				"_config.yml"
+				"steting",
+				"assets/sass/_settings.scss"
+			],
+			[
+				"utilie",
+				"assets/sass/_utilities.scss"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
 			],
 			[
 				"main",
@@ -1208,10 +1031,6 @@
 			[
 				"defaut",
 				"_layouts/default.html"
-			],
-			[
-				"header",
-				"_includes/header.html"
 			],
 			[
 				"post.html",

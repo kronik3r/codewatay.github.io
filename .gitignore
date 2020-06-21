@@ -1,3 +1,5 @@
 /.sass-cache
 /_site
 *.sublime-*
+.jekyll-cache/*
+*.sublime-*

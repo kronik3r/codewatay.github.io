@@ -1,5 +1,5 @@
 <header class="header">
-    <img class="logo" src="/assets/imgs/logo.svg" alt="لكود وأتاي">
+    <a href="{{ site.url }}" hreflang="ar_ma" title="{{ site.title }}"><img class="logo" src="/assets/imgs/logo.svg" alt="لكود وأتاي" /></a>
     <div class="menu">
         <a href="{{ '/' | prepend: site.baseurl }}" class="menu__item {% if page.url == '/' %}menu__item--active{% endif %}">لحلقات</a>
         <a href="{{ '/about' | prepend: site.baseurl }}" class="menu__item {% if page.url == '/about/' %}menu__item--active{% endif %}">معلومات</a>
